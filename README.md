@@ -7,6 +7,7 @@
 [![Build Status](https://travis-ci.org/wildbit/postmark-rails.svg?branch=master)](https://travis-ci.org/wildbit/postmark-rails) [![Code Climate](https://codeclimate.com/github/wildbit/postmark-rails/badges/gpa.svg)](https://codeclimate.com/github/wildbit/postmark-rails)
 [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://www.opensource.org/licenses/MIT)
 [![Gem Version](https://badge.fury.io/rb/postmark-rails.svg)](https://badge.fury.io/rb/postmark-rails)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTheMindlessDevCanada%2Fpostmark-rails.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTheMindlessDevCanada%2Fpostmark-rails?ref=badge_shield)
 
 [Postmark](https://postmarkapp.com) allows you to send your emails with high delivery rates.
 It also includes detailed statistics. In addition, Postmark can parse incoming emails which are forwarded back to your application.
@@ -109,6 +110,9 @@ Please leave all comments, bugs, requests and issues on the Issues page.
 
 The Postmark Rails gem is licensed under the [MIT](http://www.opensource.org/licenses/mit-license.php) license.
 Refer to the [LICENSE](https://github.com/wildbit/postmark-rails/blob/master/LICENSE) file for more information.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTheMindlessDevCanada%2Fpostmark-rails.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTheMindlessDevCanada%2Fpostmark-rails?ref=badge_large)
 
 ## Copyright
 
